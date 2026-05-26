@@ -1,0 +1,13 @@
+# Web Scraping & Browser Automation
+playwright>=1.40.0
+puppeteer>=10.0.0
+selenium>=4.10.0
+
+# Server & APIs
+FastAPI>=0.100.0
+uvicorn>=0.22.0
+Flask>=2.3.0
+requests>=2.31.0
+
+# Utilities
+python-dotenv>=1.0.0
