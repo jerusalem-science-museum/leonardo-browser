@@ -1,6 +1,5 @@
 # Web Scraping & Browser Automation
 playwright>=1.40.0
-puppeteer>=10.0.0
 selenium>=4.10.0
 
 # Server & APIs
