@@ -1,6 +1,12 @@
+# Graphics and UI
+pygame>=2.5.0
+
 # Web Scraping & Browser Automation
 playwright>=1.40.0
 selenium>=4.10.0
+
+# Linux Input Device Handling (Fails gracefully on Windows/Mac)
+evdev>=1.6.0; sys_platform == 'linux'
 
 # Server & APIs
 FastAPI>=0.100.0
